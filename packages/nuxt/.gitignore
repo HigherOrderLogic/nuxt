@@ -6,3 +6,5 @@ src/core/runtime/nitro/handlers/error-500.ts
 src/core/runtime/nitro/handlers/error-dev.ts
 src/core/runtime/nitro/templates/error-500.ts
 src/core/runtime/nitro/templates/error-dev.ts
+src/core/runtime/nitro/error-500.ts
+src/core/runtime/nitro/error-dev.ts
